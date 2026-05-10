@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there, I'm Shaxzoda! 👋
 
-<!--
-**shaxzodanorbotayeva741-stack/shaxzodanorbotayeva741-stack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👩‍💻 Junior Frontend Developer
+I am passionate about crafting beautiful, responsive, and user-friendly web interfaces. Currently focusing on building solid foundations in web development.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack:
+![HTML5](https://shields.io) 
+![CSS3](https://shields.io) 
+![SASS](https://shields.io)
+![Bootstrap](https://shields.io)
+
+### 📚 Currently Learning:
+![JavaScript](https://shields.io)
+
+---
+
+### 📫 Connect with me:
+[Telegram](https://t.me)
+
+---
+*"The expert in anything was once a beginner."*
