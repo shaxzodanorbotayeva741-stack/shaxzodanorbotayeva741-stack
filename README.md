@@ -17,7 +17,7 @@ I am passionate about crafting beautiful, responsive, and user-friendly web inte
 ---
 
 ### 📫 Connect with me:
-👉 [Click here to message me on Telegram](https://t.me)
+[Click here to message me on Telegram](https://t.me)
 
 ---
 *"The expert in anything was once a beginner."*
