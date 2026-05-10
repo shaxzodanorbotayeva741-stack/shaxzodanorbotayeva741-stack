@@ -1,23 +1,23 @@
 # Hi there, I'm Shaxzoda! 👋
 
 ### 👩‍💻 Junior Frontend Developer
-I am passionate about crafting beautiful, responsive, and user-friendly web interfaces. Currently focusing on building solid foundations in web development.
+I am passionate about crafting beautiful, responsive, and user-friendly web interfaces.
 
 ---
 
 ### 🛠 Tech Stack:
-![HTML5](https://shields.io) 
-![CSS3](https://shields.io) 
-![SASS](https://shields.io)
-![Bootstrap](https://shields.io)
+*   **HTML5** 🌐
+*   **CSS3** 🎨
+*   **SASS** 💅
+*   **Bootstrap** ⚡
 
 ### 📚 Currently Learning:
-![JavaScript](https://shields.io)
+*   **JavaScript** 🚀
 
 ---
 
 ### 📫 Connect with me:
-[Telegram](https://t.me)
+👉 [Click here to message me on Telegram](https://t.me)
 
 ---
 *"The expert in anything was once a beginner."*
